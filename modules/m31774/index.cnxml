@@ -1,0 +1,518 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Ledger entries</title>
+  <metadata>
+  <md:content-id>m31774</md:content-id><md:title>Ledger entries</md:title>
+  <md:abstract/>
+  <md:uuid>c02103a7-c7fb-4bbb-b9a0-93db7a951596</md:uuid>
+</metadata>
+
+<content>
+    <section id="id17920236">
+      <title>ECONOMIC AND MANAGEMENT SCIENCES</title>
+      <para id="para-id17920236">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id17976730">
+      <title>Grade 9</title>
+      <para id="para-id17976730">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id17860349">
+      <title>BUSINESS, CONSUMER AND FINANCIAL KNOWLEDGE AND SKILLS</title>
+      <para id="para-id17860349">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id17918331">
+      <title>Module 21</title>
+      <para id="para-id17918331">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id22132129">
+      <title>LEDGER ENTRIES</title>
+      <para id="id21528424">section 2: ledger accounts</para>
+      <para id="id22135718">ACTIVITY1: </para>
+      <para id="id3250133">To do ledger entries</para>
+      <para id="id22128722">[LO 3.3]</para>
+      <para id="id22128727">An account is a separate record in which all transactions for a particular item are entered.</para>
+      <para id="id18126682">An account takes the form of a T and comprises three sections, namely:</para>
+      <list id="id17900252" list-type="bulleted">
+        <item>the name of the item, for example, bank account;</item>
+        <item>the left-hand side, called the debit side, and</item>
+        <item>the right-hand side, called the credit side.</item>
+      </list>
+      <list id="id17740651" list-type="bulleted">
+        <item>For example: <figure id="id17929488"><media id="id17929488_media" alt=""><image mime-type="image/png" src="../../media/graphics1-914a.png" id="id17929488__onlineimage" height="104" width="303"/></media></figure></item>
+      </list>
+      <para id="id17998041">Debiting an account means to do an entry on the debit side. Crediting an account means to do an entry on the credit side.</para>
+      <para id="id18127750">Every transaction affects at least two accounts. The one account is debited and the other account is credited. This is known as the <emphasis effect="italics">double-entry system</emphasis>. In the details column of the ledger account the name of the other account involved in the transaction appears, for example:</para>
+      <figure id="id16952292">
+        <media id="id16952292_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics2-7d5c.png" id="id16952292__onlineimage" height="69" width="305"/>
+        </media>
+      </figure>
+      <para id="id19475153">This means that cash sales to the value of R1 000 were made. The two accounts are therefore bank and sales. The double entry will be as follows:</para>
+      <figure id="id18137701">
+        <media id="id18137701_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics3-1c6c.png" id="id18137701__onlineimage" height="63" width="293"/>
+        </media>
+      </figure>
+      <para id="id16941230">The following rules must be taken into account in the case of entries in ledger accounts:</para>
+      <list id="id16859458" list-type="bulleted">
+        <item>When an asset is increased, the bank account is debited</item>
+        <item>When an asset is reduced, the bank account is credited</item>
+        <item>When a liability is increased, the liabilities account is credited</item>
+        <item>When a liability is reduced, the liabilities account is debited</item>
+        <item>When capital is increased, the capital account is credited</item>
+        <item>When capital is reduced, the capital account is debited</item>
+        <item>When income is increased, the income account is credited</item>
+        <item>When income is reduced, the income account is debited</item>
+        <item>When expenditure is increased, the expenditure account is debited</item>
+        <item>The opening balance of accounts that increase on the credit side, appears on the credit side</item>
+        <item>The opening balance of accounts that increase on the debit side, appears on the debit side</item>
+      </list>
+      <para id="id16940088">ASSIGNMENT 1: </para>
+      <list id="id16902631" list-type="bulleted">
+        <item><emphasis effect="bold">Determine the effect of Ledger Accounts on A = O + L </emphasis>by analysing the transactions in the table.</item>
+      </list>
+      <para id="id16944664">1. Owner deposits some of his personal funds as capital in the bank account of the business.</para>
+      <para id="id16936460">2. Equipment is purchased and paid by cheque.</para>
+      <para id="id16884643">3. A vehicle is purchased on credit.</para>
+      <para id="id16944814">4. Cash is received for services provided.</para>
+      <para id="id16948368">5. Salaries are paid by cheque.</para>
+      <para id="id16973320">6. The amounts owed to creditors are paid.</para>
+      <para id="id16981397">7. Money is received from debtors.</para>
+      <para id="id16978475">Table for assignment 1</para>
+      <table id="id16978479" summary="">
+        <tgroup cols="6">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <tbody>
+            <row>
+              <entry namest="c1" nameend="c3">GENERAL LEDGER</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>NO.</entry>
+              <entry>ACCOUNT DEBITED</entry>
+              <entry>ACCOUNT CREDITED</entry>
+              <entry>A</entry>
+              <entry>O</entry>
+              <entry>L</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id6409731">ASSIGNMENT 2:</para>
+      <list id="id18645243" list-type="bulleted">
+        <item>Answer the following questions according to the columns in the table:</item>
+      </list>
+      <table id="id18714212" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry>Current income</entry>
+              <entry>Consumer goods</entry>
+              <entry>Fuel</entry>
+            </row>
+            <row>
+              <entry>Withdrawals</entry>
+              <entry>Change</entry>
+              <entry>Salaries</entry>
+            </row>
+            <row>
+              <entry>Water and Electricity</entry>
+              <entry>Land and Buildings</entry>
+              <entry>Debitors control</entry>
+            </row>
+            <row>
+              <entry>Rental income</entry>
+              <entry>Advertisements</entry>
+              <entry>Equipment</entry>
+            </row>
+            <row>
+              <entry>Telephone</entry>
+              <entry>Selling costs</entry>
+              <entry>Cost of materials</entry>
+            </row>
+            <row>
+              <entry>Trading inventory</entry>
+              <entry>Trade licence</entry>
+              <entry>Stationery</entry>
+            </row>
+            <row>
+              <entry>Packaging material</entry>
+              <entry>Wages</entry>
+              <entry>Repairs</entry>
+            </row>
+            <row>
+              <entry>Sales</entry>
+              <entry>Bank</entry>
+              <entry>Rental expenditure</entry>
+            </row>
+            <row>
+              <entry>Vehicles</entry>
+              <entry>Creditors control</entry>
+              <entry>Capital</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id18153414">(a) Arrange the accounts in the columns in the table.</para>
+      <para id="id18153401">(b) Indicate by means of +, - or 0 next to the account whether an increase in it will increase or reduce the ownership interest or leave it unchanged.</para>
+      <para id="id18153335">(c) Indicate by means of dt. or cr. next to the account whether the account will have a debit or credit opening balance.</para>
+      <para id="id18153283">table for assignment 2</para>
+      <figure id="id18152749">
+        <media id="id18152749_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics4-300e.png" id="id18152749__onlineimage" height="422" width="485"/>
+        </media>
+      </figure>
+      <para id="id18153701">ASSIGNMENT 3: </para>
+      <list id="id18153648" list-type="bulleted">
+        <item><emphasis effect="bold">Do the following debit and credit entries on the ledger sheet</emphasis> (below):</item>
+      </list>
+      <para id="id18159581">1 The owner invests R12 000 as capital in the business</para>
+      <para id="id18159570">2 A vehicle is purchased on credit from TP Motors</para>
+      <para id="id19437068">3 Fuel is purchased and paid by cheque</para>
+      <para id="id19443297">4 Cash for service provided is received</para>
+      <para id="id19520867">5 Salaries are paid by cheque</para>
+      <para id="id19407674">6 Goods on credit to J. van Schalkwyk are supllied</para>
+      <para id="id19458103">7 Rent by cheque to A and B Lessors is paid</para>
+      <para id="id17385540">8 The owner takes cash for his personal use</para>
+      <para id="id17385475">9 Materials are purchased on credit from AB Suppliers</para>
+      <para id="id17385311">10 Equipment from Model Suppliers and pays by cheque is purchased</para>
+      <para id="id17385208">11 Receives the amount owing from J. van Schalkwyk</para>
+      <para id="id17404360">12 Part of the debt to TP Motors is paid</para>
+      <para id="id17383802">13 Goods are sold for cash</para>
+      <para id="id17383908">Table for assignment 3</para>
+      <table id="id17384116" summary="">
+        <tgroup cols="6">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <tbody>
+            <row>
+              <entry namest="c1" nameend="c3">GENERAL LEDGER</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>NO.</entry>
+              <entry>ACCOUNT DEBITED</entry>
+              <entry>ACCOUNT CREDITED</entry>
+              <entry>A</entry>
+              <entry>O</entry>
+              <entry>L</entry>
+            </row>
+            <row>
+              <entry>1</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>2</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>3</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>4</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>5</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>6a</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>6b</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>7</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>8</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>9</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>10</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>11</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>12</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>13a</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>13b</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id18088797">
+      <title>Assessment</title>
+      <table id="id18107370" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>Learning Outcomes(LOs)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>LO 3 </entry>
+            </row>
+            <row>
+              <entry>MANAGERIAL, Consumer and Financial Knowledge and SkillsThe learner will be able to demonstrate knowledge and the ability to apply responsibly a range of managerial, consumer and financial skills.</entry>
+            </row>
+            <row>
+              <entry>Assessment Standards(ASs)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>
+                <emphasis effect="italics">We know this if the learner</emphasis>
+                <emphasis effect="italics">:</emphasis>
+              </entry>
+            </row>
+            <row>
+              <entry>3.1 completes a basic income statement and balance sheet for a service and retail business;</entry>
+            </row>
+            <row>
+              <entry>3.2 investigates the public relations, social responsibility and environmental responsibility strategies and actions of different businesses and organisations;</entry>
+            </row>
+            <row>
+              <entry>3.3 completes cash and credit transactions in the books of service and retail businesses;</entry>
+            </row>
+            <row>
+              <entry>3.4 uses keyboard skills and function keys in developing, storing, retrieving and editing business documentation;</entry>
+            </row>
+            <row>
+              <entry>3.5 analyses financial statements for decision-making at a basic level;</entry>
+            </row>
+            <row>
+              <entry>3.6 differentiates between the forms of credit purchases.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id18113460">
+      <title/>
+      <para id="para-id18113460">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id16899108">
+      <title>Memorandum</title>
+      <para id="id18094691">ACTIVITY1</para>
+      <para id="id18122604">ASSIGNMENT 1</para>
+      <figure id="id18077475">
+        <media id="id18077475_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics5-0d19.png" id="id18077475__onlineimage" height="175" width="369"/>
+        </media>
+      </figure>
+      <para id="id18138164">ACTIVITY 1</para>
+      <para id="id18138169">ASSIGNMENT 2</para>
+      <figure id="id18138256">
+        <media id="id18138256_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics6-a3ee.png" id="id18138256__onlineimage" height="308" width="478"/>
+        </media>
+      </figure>
+      <para id="id18137400">ACTIVITY1</para>
+      <para id="id18137330">ASSIGNMENT 3</para>
+      <figure id="id11375682">
+        <media id="id11375682_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics7.png" id="id11375682__onlineimage" height="274" width="377"/>
+        </media>
+      </figure>
+    </section>
+  </content>
+</document>

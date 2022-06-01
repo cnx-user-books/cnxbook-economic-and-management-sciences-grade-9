@@ -1,0 +1,903 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Recording payments received from debtors</title>
+  <metadata>
+  <md:content-id>m31772</md:content-id><md:title>Recording payments received from debtors</md:title>
+  <md:abstract/>
+  <md:uuid>6d3b595f-2e3a-45b4-9228-33ffe02a5613</md:uuid>
+</metadata>
+
+<content>
+    <section id="id23177238">
+      <title>ECONOMIC AND MANAGEMENT SCIENCES</title>
+      <para id="para-id23177238">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id17428585">
+      <title>Grade 9</title>
+      <para id="para-id17428585">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id22244525">
+      <title>BUSINESS, CONSUMER AND FINANCIAL KNOWLEDGE AND SKILLS</title>
+      <para id="para-id22244525">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id19207007">
+      <title>Module 19</title>
+      <para id="para-id19207007">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id20858201">
+      <title>RECORDING PAYMENTS RECEIVED FROM DEBTORS</title>
+      <para id="id13960104">ACTIVITY1: </para>
+      <para id="id18266076">To record payments received from debtors</para>
+      <para id="id18266081">[LO 3.3]</para>
+      <para id="id10872132">When debtors pay their debt, the cash received is recorded in the CRJ. The CRJ makes provision for an additional column headed Debtors Control.</para>
+      <para id="id22159677">A receipt is issued to the debtor as proof that the money was received. This is called the source document for the entry.</para>
+      <para id="id16277190">The effect of the transaction on the accounting equation is as follows:</para>
+      <list id="id21866297" list-type="bulleted">
+        <item>Assets + (Cash in bank increases)</item>
+        <item>Assets – (Debtors’ debt decreases)</item>
+      </list>
+      <para id="id19216732">ASSIGNMENT 1: </para>
+      <list id="id19216736" list-type="bulleted">
+        <item>Using the information below, complete the Cash Receipts Journal (CRJ) and Debtors Journal (DJ) of Highway Dealers.</item>
+      </list>
+      <list id="id14809946" list-type="bulleted">
+        <item>Highway Dealers sells goods on credit and for cash.</item>
+      </list>
+      <list id="id19070123" list-type="bulleted">
+        <item>The following transactions must be recorded in DJ 3.3.1 for May and DJ 3.3.2 for June 2003, and in CRJ 3.3.1 for June 2003.</item>
+      </list>
+      <para id="id20348104">May 2003</para>
+      <para id="id8808042"><emphasis effect="bold">3 </emphasis>Sells goods for R320 on credit to S. Weston<emphasis effect="bold"/>and issues invoice no. 141 (cp. R256)</para>
+      <para id="id10745878"><emphasis effect="bold">8 </emphasis>Issues invoice 142 to A. Niemand for goods sold on credit for R240 (cp. R192)</para>
+      <para id="id19834157"><emphasis effect="bold">10 </emphasis>Sells goods for R160 on credit to H. Olwage and issues invoice no. 143 (cp. R128)</para>
+      <para id="id19525728"><emphasis effect="bold">12 </emphasis>Sells goods on credit to:</para>
+      <para id="id8951720"> S. Selby for R280, invoice no. 144 (cp. R224)</para>
+      <para id="id21633169"> W. Willow for R120, invoice no. 145 (cp. R96)</para>
+      <para id="id20199454">June 2003</para>
+      <para id="id20199458"><emphasis effect="bold">3 </emphasis>Receives a cheque from S. Weston for R320, issues receipt no. 61</para>
+      <para id="id15352712"><emphasis effect="bold"/>Cash sales of goods, R4 000 (cp. R3 200)</para>
+      <para id="id22624211"><emphasis effect="bold">5 </emphasis>Receives R160 cash from H. Olwage and issues receipt no. 62 to him</para>
+      <para id="id24157554"><emphasis effect="bold"/>Cash sales of goods, R1 600 (cp. R1 280)</para>
+      <para id="id9201223"><emphasis effect="bold">6 </emphasis>Receives a cheque for R280 from S. Selby and issues receipt no. 63</para>
+      <para id="id4679544"><emphasis effect="bold"/>Cash sales of goods, R1 200 (cp. R960)</para>
+      <para id="id18878002"><emphasis effect="bold">14 </emphasis>Sells goods on credit to: </para>
+      <para id="id22640493"><emphasis effect="bold"/>W. Willow for R80, invoice no. 146 (cp. R64)</para>
+      <para id="id17351648"><emphasis effect="bold"/>A. Niemand for R40, invoice no. 147 (cp. R32)</para>
+      <para id="id20535677"><emphasis effect="bold">24 </emphasis>Supplies goods on credit to:</para>
+      <para id="id17440171"><emphasis effect="bold"/>S. Selby together with invoice no. 148 for R120 (cp. R96)</para>
+      <para id="id15353377"><emphasis effect="bold">30 </emphasis>Cash sales of goods, R4 800 (cp. R3 840)</para>
+      <section id="id21069301">
+        <title>DEBTORS JOURNAL OF HIGHWAY DEALERS – MAY 2003DJ 3.3.1</title>
+        <table id="id21877669" summary="">
+          <tgroup cols="6">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <tbody>
+              <row>
+                <entry>In-voice</entry>
+                <entry>Day</entry>
+                <entry>Debtors</entry>
+                <entry>Fol.</entry>
+                <entry>Sales</entry>
+                <entry>Selling costs</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+      <section id="id4183415">
+        <title>DEBTORS JOURNAL OF HIGHWAY DEALERS – JUNE 2003DJ 3.3.2</title>
+        <table id="id16426455" summary="">
+          <tgroup cols="6">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <tbody>
+              <row>
+                <entry>In-voice</entry>
+                <entry>Day</entry>
+                <entry>Debtors</entry>
+                <entry>Fol.</entry>
+                <entry>Sales</entry>
+                <entry>Selling costs</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+      <section id="id24288094">
+        <title>CASH RECEIPTS JOURNAL OF HIGHWAY DEALERS - JUNE 2003CRJ 3.3.1</title>
+        <table id="id20538047" summary="">
+          <tgroup cols="18">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <colspec colnum="9" colname="c9"/>
+            <colspec colnum="10" colname="c10"/>
+            <colspec colnum="11" colname="c11"/>
+            <colspec colnum="12" colname="c12"/>
+            <colspec colnum="13" colname="c13"/>
+            <colspec colnum="14" colname="c14"/>
+            <colspec colnum="15" colname="c15"/>
+            <colspec colnum="16" colname="c16"/>
+            <colspec colnum="17" colname="c17"/>
+            <colspec colnum="18" colname="c18"/>
+            <tbody>
+              <row>
+                <entry>Doc.</entry>
+                <entry>Day</entry>
+                <entry>Details</entry>
+                <entry>Fol.</entry>
+                <entry namest="c5" nameend="c6">Analysis</entry>
+                <entry namest="c7" nameend="c8">Bank</entry>
+                <entry namest="c9" nameend="c10">Sales</entry>
+                <entry namest="c11" nameend="c12">Selling costs</entry>
+                <entry namest="c13" nameend="c14">Debtors control</entry>
+                <entry namest="c15" nameend="c18">Sundries accounts</entry>
+              </row>
+              <row>
+                <entry namest="c1" nameend="c2">Amount</entry>
+                <entry>Fol.</entry>
+                <entry>Details</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+    </section>
+    <section id="id16008836">
+      <title>Assessment</title>
+      <table id="id20195492" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>Learning Outcomes(LOs)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>LO 3 </entry>
+            </row>
+            <row>
+              <entry>MANAGERIAL, Consumer and Financial Knowledge and SkillsThe learner will be able to demonstrate knowledge and the ability to apply responsibly a range of managerial, consumer and financial skills.</entry>
+            </row>
+            <row>
+              <entry>Assessment Standards(ASs)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>
+                <emphasis effect="italics">We know this if the learner</emphasis>
+                <emphasis effect="italics">:</emphasis>
+              </entry>
+            </row>
+            <row>
+              <entry>3.1 completes a basic income statement and balance sheet for a service and retail business;</entry>
+            </row>
+            <row>
+              <entry>3.2 investigates the public relations, social responsibility and environmental responsibility strategies and actions of different businesses and organisations;</entry>
+            </row>
+            <row>
+              <entry>3.3 completes cash and credit transactions in the books of service and retail businesses;</entry>
+            </row>
+            <row>
+              <entry>3.4 uses keyboard skills and function keys in developing, storing, retrieving and editing business documentation;</entry>
+            </row>
+            <row>
+              <entry>3.5 analyses financial statements for decision-making at a basic level;</entry>
+            </row>
+            <row>
+              <entry>3.6 differentiates between the forms of credit purchases.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id17469388">
+      <title>Memorandum</title>
+      <para id="id16428804">ACTIVITY 1</para>
+      <section id="id16428809">
+        <title>Debtors journal of Highway dealers - May 2003DJ 3.3.1</title>
+        <table id="id23834051" summary="">
+          <tgroup cols="6">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <tbody>
+              <row>
+                <entry>Invoice</entry>
+                <entry>Day</entry>
+                <entry>Debtors</entry>
+                <entry>Fol</entry>
+                <entry>Sales</entry>
+                <entry>Selling costs</entry>
+              </row>
+              <row>
+                <entry>141</entry>
+                <entry>3</entry>
+                <entry>S. Weston</entry>
+                <entry/>
+                <entry>320</entry>
+                <entry>256</entry>
+              </row>
+              <row>
+                <entry>142</entry>
+                <entry>8</entry>
+                <entry>A. Niemand</entry>
+                <entry/>
+                <entry>240</entry>
+                <entry>192</entry>
+              </row>
+              <row>
+                <entry>143</entry>
+                <entry>10</entry>
+                <entry>H. Olwage</entry>
+                <entry/>
+                <entry>160</entry>
+                <entry>128</entry>
+              </row>
+              <row>
+                <entry>144</entry>
+                <entry>12</entry>
+                <entry>S. Selby</entry>
+                <entry/>
+                <entry>280</entry>
+                <entry>224</entry>
+              </row>
+              <row>
+                <entry>145</entry>
+                <entry/>
+                <entry>W. Willow</entry>
+                <entry/>
+                <entry>120</entry>
+                <entry>96</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry>1 120</entry>
+                <entry>896</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry>B2/N1</entry>
+                <entry>B1/N2</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+      <section id="id18266677">
+        <title>Debtors journal of Highway dealers - June 2003DJ 3.3.2</title>
+        <table id="id10659607" summary="">
+          <tgroup cols="6">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <tbody>
+              <row>
+                <entry>Invoice</entry>
+                <entry>Day</entry>
+                <entry>Debtors</entry>
+                <entry>Fol</entry>
+                <entry>Sales</entry>
+                <entry>Selling costs</entry>
+              </row>
+              <row>
+                <entry>146</entry>
+                <entry>14</entry>
+                <entry>W. Willow</entry>
+                <entry/>
+                <entry>80</entry>
+                <entry>64</entry>
+              </row>
+              <row>
+                <entry>147</entry>
+                <entry/>
+                <entry>A. Niemand</entry>
+                <entry/>
+                <entry>40</entry>
+                <entry>32</entry>
+              </row>
+              <row>
+                <entry>148</entry>
+                <entry>24</entry>
+                <entry>S. Selby</entry>
+                <entry/>
+                <entry>120</entry>
+                <entry>96</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry>240</entry>
+                <entry>192</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry>B2/N1</entry>
+                <entry>B1/N2</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id18705593">ACTIVITY 1</para>
+      </section>
+      <section id="id10805986">
+        <title>CASH RECEIPTS JOURNAL OF HIGHWAY DEALERS - JUNE 2003CRJ 3.3.1</title>
+        <table id="id19109587" summary="">
+          <tgroup cols="18">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <colspec colnum="9" colname="c9"/>
+            <colspec colnum="10" colname="c10"/>
+            <colspec colnum="11" colname="c11"/>
+            <colspec colnum="12" colname="c12"/>
+            <colspec colnum="13" colname="c13"/>
+            <colspec colnum="14" colname="c14"/>
+            <colspec colnum="15" colname="c15"/>
+            <colspec colnum="16" colname="c16"/>
+            <colspec colnum="17" colname="c17"/>
+            <colspec colnum="18" colname="c18"/>
+            <tbody>
+              <row>
+                <entry>Doc</entry>
+                <entry>Day</entry>
+                <entry>Details</entry>
+                <entry>Fol</entry>
+                <entry namest="c5" nameend="c6">Analysis</entry>
+                <entry namest="c7" nameend="c8">Bank</entry>
+                <entry namest="c9" nameend="c10">Sales</entry>
+                <entry namest="c11" nameend="c12">Selling costs</entry>
+                <entry namest="c13" nameend="c14">Debtors control</entry>
+                <entry namest="c15" nameend="c18">Sundries account</entry>
+              </row>
+              <row>
+                <entry namest="c1" nameend="c2">Amount</entry>
+                <entry>Fol</entry>
+                <entry>Details</entry>
+              </row>
+              <row>
+                <entry>61</entry>
+                <entry>3</entry>
+                <entry>S. Weston</entry>
+                <entry/>
+                <entry>320</entry>
+                <entry>-</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry>320</entry>
+                <entry>-</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>CR</entry>
+                <entry/>
+                <entry>Sales</entry>
+                <entry/>
+                <entry>4 000</entry>
+                <entry>-</entry>
+                <entry>4 320</entry>
+                <entry>-</entry>
+                <entry>4 000</entry>
+                <entry>-</entry>
+                <entry>3 200</entry>
+                <entry>-</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>62</entry>
+                <entry>5</entry>
+                <entry>H. Olwage</entry>
+                <entry/>
+                <entry>160</entry>
+                <entry>-</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry>160</entry>
+                <entry>-</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>CR</entry>
+                <entry/>
+                <entry>Sales</entry>
+                <entry/>
+                <entry>1 600</entry>
+                <entry>-</entry>
+                <entry>1 760</entry>
+                <entry>-</entry>
+                <entry>1 600</entry>
+                <entry>-</entry>
+                <entry>1 280</entry>
+                <entry>-</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>63</entry>
+                <entry>6</entry>
+                <entry>S. Selby</entry>
+                <entry/>
+                <entry>280</entry>
+                <entry>-</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry>280</entry>
+                <entry>-</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>CR</entry>
+                <entry/>
+                <entry>Sales</entry>
+                <entry/>
+                <entry>1 200</entry>
+                <entry>-</entry>
+                <entry>1 480</entry>
+                <entry>-</entry>
+                <entry>1 200</entry>
+                <entry>-</entry>
+                <entry>960</entry>
+                <entry>-</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>CR</entry>
+                <entry>30</entry>
+                <entry>Sales</entry>
+                <entry/>
+                <entry>4 800</entry>
+                <entry>-</entry>
+                <entry>4 800</entry>
+                <entry/>
+                <entry>4 800</entry>
+                <entry>-</entry>
+                <entry>3 840</entry>
+                <entry>-</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry>12 360</entry>
+                <entry>-</entry>
+                <entry>11 600</entry>
+                <entry>-</entry>
+                <entry>9 280</entry>
+                <entry>-</entry>
+                <entry>760</entry>
+                <entry>-</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry>B3</entry>
+                <entry/>
+                <entry>N1</entry>
+                <entry/>
+                <entry>B1/N2</entry>
+                <entry/>
+                <entry>B2</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+    </section>
+  </content>
+</document>
