@@ -1,3 +1,58 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col11074</md:content-id>  <md:title>Economic and Management Sciences Grade 9</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>en</md:language>              <md:uuid>005efdec-d568-419f-9106-1cd99e1f5c8e</md:uuid>
-<md:slug>economic-and-management-sciences-grade-9</md:slug>
-</metadata>  <col:content>                        <col:subcollection>        <md:title>Term 1</md:title>                                <col:content>                    <col:module document="m21445"/>                            <col:module document="m21444"/>                            <col:module document="m21446"/>                            <col:module document="m21450"/>                            <col:module document="m21461"/>                            <col:module document="m22933"/>                            <col:module document="m21498"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Term 2</md:title>                                <col:content>                    <col:module document="m21501"/>                            <col:module document="m21503"/>                            <col:module document="m21504"/>                            <col:module document="m21506"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Term 3</md:title>                                <col:content>                    <col:module document="m21509"/>                            <col:module document="m21515"/>                            <col:module document="m21516"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Term 4</md:title>                                <col:content>                    <col:module document="m31771"/>                            <col:module document="m31769"/>                            <col:module document="m31768"/>                            <col:module document="m31766"/>                            <col:module document="m31772"/>                            <col:module document="m31773"/>                            <col:module document="m31774"/>                            <col:module document="m31775"/>                            <col:module document="m31776"/>                            <col:module document="m31777"/>                            <col:module document="m31778"/>                          </col:content>      </col:subcollection>      </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course" authors="Siyavula Uploaders">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11074</md:content-id>
+    <md:title>Economic and Management Sciences Grade 9</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>005efdec-d568-419f-9106-1cd99e1f5c8e</md:uuid>
+    <md:slug>economic-and-management-sciences-grade-9</md:slug>
+  </metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Term 1</md:title>
+      <col:content>
+        <col:module document="m21445"/>
+        <col:module document="m21444"/>
+        <col:module document="m21446"/>
+        <col:module document="m21450"/>
+        <col:module document="m21461"/>
+        <col:module document="m22933"/>
+        <col:module document="m21498"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Term 2</md:title>
+      <col:content>
+        <col:module document="m21501"/>
+        <col:module document="m21503"/>
+        <col:module document="m21504"/>
+        <col:module document="m21506"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Term 3</md:title>
+      <col:content>
+        <col:module document="m21509"/>
+        <col:module document="m21515"/>
+        <col:module document="m21516"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Term 4</md:title>
+      <col:content>
+        <col:module document="m31771"/>
+        <col:module document="m31769"/>
+        <col:module document="m31768"/>
+        <col:module document="m31766"/>
+        <col:module document="m31772"/>
+        <col:module document="m31773"/>
+        <col:module document="m31774"/>
+        <col:module document="m31775"/>
+        <col:module document="m31776"/>
+        <col:module document="m31777"/>
+        <col:module document="m31778"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
